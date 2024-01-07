@@ -1,6 +1,4 @@
 
-## (...Course materials under preparation...)
-
 # MIT_18.S097 Special Subject in Mathematics: Introduction to Julia for Data Science
 MIT_18.S097
 
