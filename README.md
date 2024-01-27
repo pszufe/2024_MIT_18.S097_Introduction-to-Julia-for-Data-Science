@@ -39,7 +39,7 @@ notebook(dir=".")
 <tr><td><b>Day 1 (Tuesday, Jan 16, 2024)</b></td><td>11am-12:30pm</td><td>Your first steps with Julia</td><td>https://youtu.be/LKXoL3-RgAA</td></tr>
 <tr><td>&nbsp;</td><td>1pm-3pm</td><td>Working with tabular data</td><td>https://youtu.be/J8j1FUFMxpQ</td></tr>
 
-<tr><td><b>Day 2 (Wednesday, Jan 17, 2024)</b></td><td>11am-12:30pm</td><td>Classical predictive models</td><td>&nbsp;</td></tr>
+<tr><td><b>Day 2 (Wednesday, Jan 17, 2024)</b></td><td>11am-12:30pm</td><td>Classical predictive models</td><td>https://youtu.be/l6EABeDO6gE</td></tr>
 <tr><td>&nbsp;</td><td>1pm-3pm</td><td>Advanced predictive models using machine learning</td><td>&nbsp;</td></tr>
 
 <tr><td><b>Day 3 (Thursday, Jan 18, 2024)</b></td><td>11am-12:30pm</td><td>Numerical methods</td><td>&nbsp;</td></tr>
