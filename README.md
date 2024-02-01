@@ -42,10 +42,10 @@ notebook(dir=".")
 <tr><td><b>Day 2 (Wednesday, Jan 17, 2024)</b></td><td>11am-12:30pm</td><td>Classical predictive models</td><td>https://youtu.be/l6EABeDO6gE</td></tr>
 <tr><td>&nbsp;</td><td>1pm-3pm</td><td>Advanced predictive models using machine learning</td><td>&nbsp;</td></tr>
 
-<tr><td><b>Day 3 (Thursday, Jan 18, 2024)</b></td><td>11am-12:30pm</td><td>Numerical methods</td><td>&nbsp;</td></tr>
+<tr><td><b>Day 3 (Thursday, Jan 18, 2024)</b></td><td>11am-12:30pm</td><td>Numerical methods</td><td>https://youtu.be/z85xnl7CfSA</td></tr>
 <tr><td>&nbsp;</td><td>1pm-3pm</td><td>Solving optimization problems</td><td>https://youtu.be/2PzuwDUIV3A</td></tr>
 
-<tr><td><b>Day 4 (Friday, Jan 19, 2024)</b></td><td>11am-12:30pm</td><td>Differential equations</td><td>&nbsp;</td></tr>
+<tr><td><b>Day 4 (Friday, Jan 19, 2024)</b></td><td>11am-12:30pm</td><td>Differential equations</td><td>https://youtu.be/4Q6RhKbpaiI</td></tr>
 <tr><td>&nbsp;</td><td>1pm-3pm</td><td>Scaling computations using parallel computing</td><td>https://youtu.be/XtMZmSz5yMk</td></tr>
 </table>
 
